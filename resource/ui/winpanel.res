@@ -227,7 +227,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"White"
 		"xpos"			"16"
 		"ypos"			"75"
@@ -247,7 +247,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabelDropshadow"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"black"
 		"xpos"			"17"
 		"ypos"			"76"
@@ -267,7 +267,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"White"
 		"xpos"			"16"
 		"ypos"			"72"
@@ -287,7 +287,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabelDropshadow"
-		"font"			"HudFontMediumBigBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"black"
 		"xpos"			"17"
 		"ypos"			"73"
